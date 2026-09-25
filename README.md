@@ -29,12 +29,12 @@ Senior Software Engineer con 16+ años diseñando software en banca, telecomunic
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2&section=footer" width="100%" />
 
 <div align="center">
 
-Disponible para **arquitectura**, **backend senior**, **sistemas cloud-native** y **capacitación técnica** para equipos.
+*Disponible para arquitectura, backend senior, sistemas cloud-native y capacitación técnica*
 
-📬 [jose.fiengo.vega@gmail.com](mailto:jose.fiengo.vega@gmail.com)
+[![jose.fiengo.vega@gmail.com](https://img.shields.io/badge/jose.fiengo.vega@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jose.fiengo.vega@gmail.com)
 
 </div>
