@@ -6,7 +6,7 @@
 
 Diseño sistemas que viven en producción y capacito equipos en backend, APIs y arquitectura distribuida.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alefiengo.dev-38BDF8?style=flat&logo=vercel&logoColor=white)](https://alefiengo-dev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visitar-38BDF8?style=flat&logo=vercel&logoColor=white)](https://alefiengo-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alejandro-fiengo-vega-383560165/)
 [![X](https://img.shields.io/badge/X-alefiengo-000000?style=flat&logo=x&logoColor=white)](https://x.com/alefiengo)
 
@@ -16,7 +16,7 @@ Diseño sistemas que viven en producción y capacito equipos en backend, APIs y 
 
 ### Sobre mí
 
-Senior Software Engineer con 16+ años diseñando software en banca, telecomunicaciones y gobierno. Especializado en microservicios, arquitecturas orientadas a eventos, API management y plataformas cloud-native sobre GCP.
+Con 16+ años diseñando software en banca, telecomunicaciones y gobierno, con foco en microservicios, eventos y plataformas cloud-native sobre GCP.
 
 ### Stack
 
@@ -32,7 +32,7 @@ Senior Software Engineer con 16+ años diseñando software en banca, telecomunic
 
 <div align="center">
 
-*Disponible para arquitectura, backend senior, sistemas cloud-native y capacitación técnica*
+*Disponible para arquitectura, sistemas en producción y capacitación técnica*
 
 [![jose.fiengo.vega@gmail.com](https://img.shields.io/badge/jose.fiengo.vega@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jose.fiengo.vega@gmail.com)
 
