@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Jos%C3%A9+Alejandro+Fiengo+Vega;Senior+Software+Engineer)](https://alefiengo-dev.vercel.app/)
+[![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Jos%C3%A9+Alejandro+Fiengo+Vega;Senior+Software+Engineer)](https://alefiengo-dev.vercel.app/)
 
 **Backend · Cloud-Native · Sistemas Distribuidos**
 
@@ -9,7 +9,6 @@ Diseño sistemas que viven en producción y capacito equipos en backend, APIs y 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alefiengo.dev-38BDF8?style=flat&logo=vercel&logoColor=white)](https://alefiengo-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alejandro-fiengo-vega-383560165/)
 [![X](https://img.shields.io/badge/X-alefiengo-000000?style=flat&logo=x&logoColor=white)](https://x.com/alefiengo)
-[![Email](https://img.shields.io/badge/Email-contacto-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jose.fiengo.vega@gmail.com)
 
 </div>
 
