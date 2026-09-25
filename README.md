@@ -29,15 +29,6 @@ Senior Software Engineer con 16+ años diseñando software en banca, telecomunic
 
 </div>
 
-### Actividad
-
-<div align="center">
-
-| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=alefiengo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=alefiengo&layout=compact&theme=tokyonight&hide_border=true) |
-|---|---|
-
-</div>
-
 ---
 
 <div align="center">
